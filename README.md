@@ -43,14 +43,9 @@ Feel free to reach out to me via email at [your.email@example.com]. Whether you 
 
 ## Connect with Me
 
-- GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile)
-- Twitter: [YourTwitterHandle](https://twitter.com/YourTwitterHandle)
+- GitHub: [YourGitHubUsername](https://github.com/abenable)
+- Twitter: [YourTwitterHandle](https://twitter.com/abe_naitwe)
 
 ## Conclusion
 
 Thank you for visiting my GitHub profile. I hope you find my skills and projects interesting. Don't forget to check out the code repositories for TrendyMart and Inkspire to see my full-stack development capabilities in action. If you have any questions or suggestions, feel free to reach out. Happy coding! 😊
-
----
-
-This updated README removes the mention of RESTful APIs while keeping the projects TrendyMart and Inkspire, showcasing your skills and expertise in web development using various technologies. Feel free to customize the template further to best represent your profile. Good luck with your GitHub journey!
