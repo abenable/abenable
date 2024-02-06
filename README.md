@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello there! Welcome to my GitHub profile. I'm [Your Name], a passionate software developer with expertise in Node.js, Express.js, React, Python, and Django. I love building scalable and efficient web applications, and I enjoy exploring new technologies and solving complex problems.
+Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a passionate software developer with expertise in Node.js, Express.js, React, Python, and Django. I love building scalable and efficient web applications, and I enjoy exploring new technologies and solving complex problems.
 
 ## Skills
 
@@ -39,12 +39,12 @@ Apart from my personal projects, I also actively contribute to open-source proje
 
 ## Contact
 
-Feel free to reach out to me via email at [your.email@example.com]. Whether you have a question, want to collaborate on a project, or just want to say hello, I'd be happy to hear from you!
+Feel free to reach out to me via email at ableabenaitwe@gmail.com. Whether you have a question, want to collaborate on a project, or just want to say hello, I'd be happy to hear from you!
 
 ## Connect with Me
 
-- GitHub: [YourGitHubUsername](https://github.com/abenable)
-- Twitter: [YourTwitterHandle](https://twitter.com/abe_naitwe)
+- GitHub: abenable (https://github.com/abenable)
+- Twitter: abe_naitwe(https://twitter.com/abe_naitwe)
 
 ## Conclusion
 
