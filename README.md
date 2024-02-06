@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+8# Welcome to My GitHub Profile!
 
 
 ## Introduction
@@ -43,8 +43,8 @@ Feel free to reach out to me via email at ableabenaitwe@gmail.com. Whether you h
 
 ## Connect with Me
 
-- GitHub: abenable (https://github.com/abenable)
-- Twitter: abe_naitwe(https://twitter.com/abe_naitwe)
+- GitHub: [abenable] (https://github.com/abenable)
+- Twitter: [abe_naitwe](https://twitter.com/abe_naitwe)
 
 ## Conclusion
 
