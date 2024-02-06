@@ -9,28 +9,17 @@ Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Elec
 
 Here are the key skills and technologies I'm proficient in:
 
--**Node.js**: Recently acquired experience in building server-side applications using Node.js. Proficient in creating robust APIs to interact with client applications and handle data efficiently.
+- **Node.js**: Recently acquired experience in building server-side applications using Node.js. Proficient in creating robust APIs to interact with client applications and handle data efficiently.
 
--**Express.js**: Newly familiar with designing scalable web applications using Express.js. Eager to explore middleware to enhance API functionality and ensure a smooth user experience.React: Recently delved into crafting interactive and user-friendly front-end interfaces with React. Learning the ropes of state management, component architecture, and integrating external APIs.
+- **Express.js**: Newly familiar with designing scalable web applications using Express.js. Eager to explore middleware to enhance API functionality and ensure a smooth user experience.React: Recently delved into crafting interactive and user-friendly front-end interfaces with React. Learning the ropes of state management, component architecture, and integrating external APIs.
 
--**Python**: Possessing some experience with Python and its versatile libraries, including Pandas, Matplotlib, NumPy, Seaborn, and Scikit-learn. Currently leveraging these libraries for data manipulation, visualization, and machine learning tasks in various projects, including web development, scripting, and data analysis.
+- **Python**: Possessing some experience with Python and its versatile libraries, including Pandas, Matplotlib, NumPy, Seaborn, and Scikit-learn. Currently leveraging these libraries for data manipulation, visualization, and machine learning tasks in various projects, including web development, scripting, and data analysis.
  
--**Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
+- **Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
 
--**TensorFlow**: Currently in the process of learning TensorFlow for machine learning and deep learning projects. Excited to expand my skill set into advanced data analysis and predictive modeling.
-## Projects
+- **TensorFlow**: Currently in the process of learning TensorFlow for machine learning and deep learning projects. Excited to expand my skill set into advanced data analysis and predictive modeling.
 
-### TrendyMart - Full Stack Dropshipping Site
-
-Description: TrendyMart is a full-stack dropshipping site that offers the latest trendy products to customers worldwide. It leverages Node.js and Express.js for the backend, React for the frontend, and MongoDB as the database. The platform provides a seamless shopping experience with secure payment processing and order tracking.
-
-Tech Stack: Node.js, Express.js, React, MongoDB, CSS
-
-### Inkspire - Full Stack Blog App
-
-Description: Inkspire is a full-stack blog application built using the MERN (MongoDB, Express.js, React, Node.js) stack. It allows users to create and publish their blogs, read articles posted by others, and engage in discussions through comments. The app features user authentication, real-time updates, and a responsive UI.
-
-Tech Stack: MongoDB, Express.js, React, Node.js, CSS
+Tech Stack: Python, MongoDB, Express.js, React, Node.js, CSS, 
 
 ## Contributions
 
