@@ -9,16 +9,15 @@ Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Elec
 
 Here are the key skills and technologies I'm proficient in:
 
-- **Node.js**: I have extensive experience in building server-side applications using Node.js. I'm familiar with creating web applications and handling data efficiently.
+-**Node.js**: Recently acquired experience in building server-side applications using Node.js. Proficient in creating robust APIs to interact with client applications and handle data efficiently.
 
-- **Express.js**: With Express.js, I can design robust and scalable web applications. I use middleware to enhance functionality and ensure a smooth user experience.
+-**Express.js**: Newly familiar with designing scalable web applications using Express.js. Eager to explore middleware to enhance API functionality and ensure a smooth user experience.React: Recently delved into crafting interactive and user-friendly front-end interfaces with React. Learning the ropes of state management, component architecture, and integrating external APIs.
 
-- **React**: I specialize in building interactive and user-friendly front-end interfaces using React. I'm well-versed in state management, component architecture, and integrating external APIs.
+-**Python**: Possessing some experience with Python and its versatile libraries, including Pandas, Matplotlib, NumPy, Seaborn, and Scikit-learn. Currently leveraging these libraries for data manipulation, visualization, and machine learning tasks in various projects, including web development, scripting, and data analysis.
+ 
+-**Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
 
-- **Python**: I have a strong foundation in Python and its various libraries. I use it for web development, scripting, data analysis, and more.
-
-- **Django**: With Django, I can develop powerful web applications rapidly. I'm skilled in creating database models, handling user authentication, and building web applications.
-
+-**TensorFlow**: Currently in the process of learning TensorFlow for machine learning and deep learning projects. Excited to expand my skill set into advanced data analysis and predictive modeling.
 ## Projects
 
 ### TrendyMart - Full Stack Dropshipping Site
