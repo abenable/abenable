@@ -3,7 +3,7 @@
 
 ## Introduction
 
-Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Electrical Engineering at Makerere University, with a burgeoning interest in software development. While I'm still in the learning process, I already have a foundation in software development, data analysis, and machine learning. I'm eager to further hone my skills and explore new technologies. Let's embark on this journey of growth and discovery together!
+Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Electrical Engineering at Makerere University, with a burgeoning interest in software development. While I'm still in the learning process, I have a solid interest in software development, data analysis, and machine learning. I'm eager to further hone my skills and explore new technologies. Let's embark on this journey of growth and discovery together!
 
 ## Skills
 
