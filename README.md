@@ -7,7 +7,7 @@ Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Elec
 
 ## Skills
 
-Here are the key skills and technologies I'm proficient in:
+Here are the few skills and technologies I'm working on:
 
 - **Node.js**: Recently acquired experience in building server-side applications using Node.js. Proficient in creating robust APIs to interact with client applications and handle data efficiently.
 
