@@ -17,9 +17,8 @@ Here are the key skills and technologies I'm proficient in:
  
 - **Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
 
-- **TensorFlow**: Currently in the process of learning TensorFlow for machine learning and deep learning projects. Excited to expand my skill set into advanced data analysis and predictive modeling.
 
-Tech Stack: Python, MongoDB, Express.js, React, Node.js, CSS, 
+Tech Stack: Python, MongoDB, Express.js, React, Node.js 
 
 ## Contributions
 
