@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-[![HitCount](https://hits.dwyl.com/abenable/abenable.svg?style=flat-square&show=unique)](http://hits.dwyl.com/abenable/abenable)
+![](https://komarev.com/ghpvc/?username=abenable&color=brightgreen&base=1000)
 
 ## Introduction
 Hello! I'm Able Abenaitwe, an Electrical Engineering student at Makerere University with a growing interest in software development. I'm passionate about learning and exploring new technologies, especially in software development, data analysis, and machine learning.
