@@ -18,7 +18,8 @@ Here are the few skills and technologies I'm working on:
 - **Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
 
 
-Tech Stack: Python, MongoDB, Express.js, React, Node.js 
+# Tech Stack: 
+[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite&theme=light)](https://skillicons.dev)
 
 ## Contributions
 
