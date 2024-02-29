@@ -1,38 +1,23 @@
 # Welcome to My GitHub Profile!
 
-
 ## Introduction
-
-Hello there! Welcome to my GitHub profile. I'm Able Abenaitwe, a student of Electrical Engineering at Makerere University, with a burgeoning interest in software development. While I'm still in the learning process, I have a solid interest in software development, data analysis, and machine learning. I'm eager to further hone my skills and explore new technologies. Let's embark on this journey of growth and discovery together!
+Hello! I'm Able Abenaitwe, an Electrical Engineering student at Makerere University with a growing interest in software development. I'm passionate about learning and exploring new technologies, especially in software development, data analysis, and machine learning.
 
 ## Skills
+-**Node.js & Express.js**: Building server-side applications and APIs using Node.js and Express.js. Familiar with middleware and scalability.
 
-Here are the few skills and technologies I'm working on:
+-**React**: Crafting interactive front-end interfaces, focusing on state management and component architecture.
 
-- **Node.js**: Recently acquired experience in building server-side applications using Node.js. Proficient in creating robust APIs to interact with client applications and handle data efficiently.
+-**Python**: Experienced in Python for data manipulation, visualization, and machine learning tasks using libraries like Pandas, Matplotlib, NumPy, Seaborn, and Scikit-learn.
 
-- **Express.js**: Newly familiar with designing scalable web applications using Express.js. Eager to explore middleware to enhance API functionality and ensure a smooth user experience.React: Recently delved into crafting interactive and user-friendly front-end interfaces with React. Learning the ropes of state management, component architecture, and integrating external APIs.
+-**Django**: Exploring web application development with Django, handling database models and user authentication.
 
-- **Python**: Possessing some experience with Python and its versatile libraries, including Pandas, Matplotlib, NumPy, Seaborn, and Scikit-learn. Currently leveraging these libraries for data manipulation, visualization, and machine learning tasks in various projects, including web development, scripting, and data analysis.
- 
-- **Django**: Recently started exploring rapid web application development with Django. Beginning to handle database models, user authentication, and overall web application architecture with Django.
-
-
-# Tech Stack: 
+## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite&theme=light)](https://skillicons.dev)
-
-## Contributions
-
-Apart from my personal projects, I also actively contribute to open-source projects. I believe in the power of community-driven development and enjoy collaborating with other developers.
 
 ## Contact
 
-Feel free to reach out to me via email at ableabenaitwe@gmail.com. Whether you have a question, want to collaborate on a project, or just want to say hello, I'd be happy to hear from you!
-
-## Connect with Me
-
-- GitHub: [abenable](https://github.com/abenable)
-- Twitter: [abe_naitwe](https://twitter.com/abe_naitwe)
+Feel free to reach out to me via email at abenable@outlook.com. Whether you have a question, want to collaborate on a project, or just want to say hello, I'd be happy to hear from you!
 
 ## Conclusion
 
