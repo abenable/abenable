@@ -37,4 +37,4 @@ Feel free to reach out to me via email at ableabenaitwe@gmail.com. Whether you h
 
 Thank you for visiting my GitHub profile. I hope you find my skills and projects interesting. Don't forget to check out the code repositories. If you have any questions or suggestions, feel free to reach out. Happy coding! 😊
 
-[abenable's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenable)](https://github.com/anuraghazra/github-readme-stats)
+[![Able's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenable)](https://github.com/anuraghazra/github-readme-stats)
