@@ -19,9 +19,3 @@ Hello! I'm Able Abenaitwe, an Electrical Engineering student at Makerere Univers
 ## Contact
 
 Feel free to reach out to me via email at abenable@outlook.com. Whether you have a question, want to collaborate on a project, or just want to say hello, I'd be happy to hear from you!
-
-## Conclusion
-
-Thank you for visiting my GitHub profile. If you have any questions or suggestions, feel free to reach out. Happy coding! 😊
-
-[![Able's GitHub stats](https://github-readme-stats.vercel.app/api?username=abenable)](https://github.com/anuraghazra/github-readme-stats)
