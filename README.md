@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 ## My Skills
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
 
 - **Languages:** Python, JavaScript, C++
 - **Web Development:** HTML, CSS, React, Node.js, Django
@@ -44,6 +44,6 @@ Feel free to reach out if you want to collaborate on a project, need help with s
 
 - [Email](mailto:abenable@outlook.com)
 - [LinkedIn](https://www.linkedin.com/in/able-abenaitwe)
-- [Twitter](https://twitter.com/a_ablee)
+- [X](https://twitter.com/a_ablee)
 
 Thanks for visiting my profile! Have a great day! 😊
