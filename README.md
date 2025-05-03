@@ -23,21 +23,6 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 - **Tools & Platforms:** Git, AWS, Heroku
 - **Data Science:** Pandas, NumPy, Pytorch, Scikit-learn, Matplotlib
 
-## Projects
-
-Here are a few projects that I've worked on:
-
-1. **[Project Name](https://github.com/abenable/project-name)**: A brief description of what this project does.
-2. **[Another Project](https://github.com/abenable/another-project)**: A brief description of what this project does.
-3. **[Yet Another Project](https://github.com/abenable/yet-another-project)**: A brief description of what this project does.
-
-## Contributions
-
-I enjoy contributing to open-source projects. Here are a few that I've contributed to:
-
-1. **[Open Source Project](https://github.com/opensource/project)**: A brief description of your contribution.
-2. **[Another Open Source Project](https://github.com/opensource/another-project)**: A brief description of your contribution.
-
 ## Get In Touch
 
 Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
