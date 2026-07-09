@@ -1,33 +1,22 @@
-# Hi there, I'm Able Abenaitwe! 👋
+# Able Abenaitwe
 
-![](https://komarev.com/ghpvc/?username=abenable&color=brightgreen&base=1000)
+Electrical Engineering student at **Makerere University** with a focus on infrastructure, backend systems, and applied AI.
 
-Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere University. I'm a passionate developer who loves to explore new technologies and work on interesting projects. Here you'll find some of the projects I've been working on.
+## Current roles
 
-## About Me
+- **Junior Infrastructure Manager Intern** — Marconi Research & Innovations Laboratory (Oct 2025–Present)
+- **Software Engineering Intern** — Feyti Medical Group (Apr 2026–Present)
 
-- 🔭 I’m currently working on improving my skills in full-stack web development.
-- 🌱 I’m currently learning more about machine learning and artificial intelligence.
-- 💬 Ask me about web development, Python, JavaScript, or anything AI-related!
-- 📫 How to reach me: [Email](mailto:abenable@outlook.com) | [LinkedIn](https://www.linkedin.com/in/able-abenaitwe)
-- ⚡ Fun fact: WiFi doesnt stand for anything, its just a brand name.
+## Tech stack
 
-## My Skills
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,rust,c,cpp,nodejs,nextjs,django,react,vite,mongodb,postgresql,git,aws,digitalocean&theme=light)](https://skillicons.dev)
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=rust,git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
+## What I'm working on
 
-- **Languages:** Python, TypeScript JavaScript, C++, Rust
-- **Web Development:** Vite, Nextjs, Expressjs, Node.js, Django
-- **Databases:** PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, AWS, Digital Ocean
+- Backend services and infrastructure for health tech
+- Applied AI/ML tooling in production-like environments
 
-## Get In Touch
+## Reach me
 
-Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
-
-- [Email](mailto:abenable@outlook.com)
-- [LinkedIn](https://www.linkedin.com/in/able-abenaitwe)
-- [X](https://twitter.com/a_ablee)
-
-Thanks for visiting my profile! Have a great day! 😊
+- [ableabenaitwe@gmail.com](mailto:ableabenaitwe@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/able-abenaitwe/)
