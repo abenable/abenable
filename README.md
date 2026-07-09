@@ -1,20 +1,26 @@
 # Able Abenaitwe
 
-Electrical Engineering student at **Makerere University** with a focus on infrastructure, backend systems, and applied AI.
+Electrical Engineering student at **Makerere University** building backend systems, infrastructure, and AI-driven tools. I care more about shipping reliable systems than chasing trends.
 
-## Current roles
+## What I do now
 
 - **Junior Infrastructure Manager Intern** — Marconi Research & Innovations Laboratory (Oct 2025–Present)
 - **Software Engineering Intern** — Feyti Medical Group (Apr 2026–Present)
 
-## Tech stack
+## Focus areas
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,rust,c,cpp,nodejs,nextjs,django,react,vite,mongodb,postgresql,git,aws,digitalocean&theme=light)](https://skillicons.dev)
+- **AI-driven development** — I build with LLMs, not just around them. Agentic workflows, code generation, and automation-first problem solving are where most of my recent work lives.
+- **Agentic systems** — designing multi-step, tool-using systems that can plan, call APIs, and iterate toward a goal.
+- **LLM orchestration** — prompt engineering, function calling, retrieval-augmented generation, and structured output pipelines for real tasks.
+- **Backend & infrastructure** — Python/Node.js services, containerized deployments, and cloud ops.
 
-## What I'm working on
+## Tools I reach for
 
-- Backend services and infrastructure for health tech
-- Applied AI/ML tooling in production-like environments
+- **Agents & LLMs:** Hermes Agent, LangChain, OpenAI API
+- **Languages:** Python, TypeScript, JavaScript, Rust, C/C++
+- **Web:** Node.js, Django, Next.js, React, Vite
+- **Data:** PostgreSQL, MongoDB
+- **Platforms:** Git, AWS, DigitalOcean
 
 ## Reach me
 
