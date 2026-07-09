@@ -18,7 +18,7 @@ Electrical Engineering student at **Makerere University** and **freelance develo
 
 ## Tools I reach for
 
-[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,flutter,dart,rust,c,cpp,nodejs,nextjs,django,react,vite,mongodb,postgresql,git,docker,aws,digitalocean,githubactions&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,flutter,rust,cpp,nodejs,django,react,vite,postgresql,git,docker,aws&theme=light)](https://skillicons.dev)
 
 - **Agents & LLMs:** Hermes Agent, LangChain, OpenAI API
 - **Languages:** Python, TypeScript, JavaScript, Rust, C/C++, Dart
