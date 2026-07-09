@@ -16,6 +16,8 @@ Electrical Engineering student at **Makerere University** building backend syste
 
 ## Tools I reach for
 
+[![My Skills](https://skillicons.dev/icons?i=python,typescript,javascript,rust,c,cpp,nodejs,nextjs,django,react,vite,mongodb,postgresql,git,aws,digitalocean&theme=light)](https://skillicons.dev)
+
 - **Agents & LLMs:** Hermes Agent, LangChain, OpenAI API
 - **Languages:** Python, TypeScript, JavaScript, Rust, C/C++
 - **Web:** Node.js, Django, Next.js, React, Vite
