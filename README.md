@@ -8,16 +8,16 @@ Welcome to my GitHub profile! I'm an Electrical Engineering student at Makerere 
 
 - 🔭 I’m currently working on improving my skills in full-stack web development.
 - 🌱 I’m currently learning more about machine learning and artificial intelligence.
-- 💬 Ask me about web development, Python, JavaScript, or anything tech-related!
+- 💬 Ask me about web development, Python, JavaScript, or anything AI-related!
 - 📫 How to reach me: [Email](mailto:abenable@outlook.com) | [LinkedIn](https://www.linkedin.com/in/able-abenaitwe)
 - ⚡ Fun fact: WiFi doesnt stand for anything, its just a brand name.
 
 ## My Skills
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,git,py,django,c,js,nodejs,mongodb,react,vite,cpp,aws,nextjs,heroku&theme=light)](https://skillicons.dev)
 
-- **Languages:** Python, TypeScript JavaScript, C++
+- **Languages:** Python, TypeScript JavaScript, C++, Rust
 - **Web Development:** Vite, Nextjs, Expressjs, Node.js, Django
 - **Databases:** PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, AWS, Digital Ocean
