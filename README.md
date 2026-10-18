@@ -35,7 +35,7 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 
 <p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,cpp,nodejs,bun,react,nextjs,tailwind,fastapi,django,flutter,postgres,prisma,redis,mongodb,docker,terraform,githubactions,aws,cloudflare,linux&perline=12&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cjavascript%2Crust%2Cdart%2Ccpp%2Cnodejs%2Cbun%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cdjango%2Cflutter%2Cpostgres%2Cprisma%2Credis%2Cmongodb%2Cdocker%2Cterraform%2Cgithubactions%2Caws%2Ccloudflare%2Clinux&perline=12&theme=dark">
   <img alt="Python, TypeScript, JavaScript, Rust, Dart, C++, Node.js, Bun, React, Next.js, Tailwind, FastAPI, Django, Flutter, PostgreSQL, Prisma, Redis, MongoDB, Docker, Terraform, GitHub Actions, AWS, Cloudflare, Linux" src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,cpp,nodejs,bun,react,nextjs,tailwind,fastapi,django,flutter,postgres,prisma,redis,mongodb,docker,terraform,githubactions,aws,cloudflare,linux&perline=12&theme=light">
 </picture>
 </p>
@@ -45,11 +45,11 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 ## On GitHub
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abenable&show_icons=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=abenable&show_icons=true&hide=stars%2Cissues&rank_icon=github&hide_border=true&bg_color=00000000&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&ring_color=22d3ee">
   <img alt="Able's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=abenable&show_icons=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=00000000&title_color=0e7490&icon_color=0e7490&text_color=334155&ring_color=0e7490">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abenable&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,dockerfile,shell&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=c9d1d9">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=abenable&layout=compact&langs_count=6&hide=jupyter%20notebook%2Chtml%2Ccss%2Cdockerfile%2Cshell&hide_border=true&bg_color=00000000&title_color=22d3ee&text_color=c9d1d9">
   <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=abenable&layout=compact&langs_count=6&hide=jupyter%20notebook,html,css,dockerfile,shell&hide_border=true&bg_color=00000000&title_color=0e7490&text_color=334155">
 </picture>
 
