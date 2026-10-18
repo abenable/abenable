@@ -1,4 +1,6 @@
-<img src="./assets/header.svg" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
+<div align="center">
+
+<img src="./assets/header.svg?v=3" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
 
 <a href="https://www.linkedin.com/in/able-abenaitwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-able--abenaitwe-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:ableabenaitwe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ableabenaitwe%40gmail.com-0E7490?style=flat-square&logo=gmail&logoColor=white"></a>
 
@@ -8,16 +10,16 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 
 **Right now**
 
-- 🩺 Software Engineer at **Feyti Medical Group** (joined Apr 2026)
-- 🛠️ Junior Infrastructure Manager Intern at **Marconi Research & Innovations Lab** (Oct 2025 – present)
-- 💼 Freelancing on agentic systems, full-stack and Flutter apps, and DevOps
+🩺 Software Engineer at **Feyti Medical Group** (joined Apr 2026)<br>
+🛠️ Junior Infrastructure Manager Intern at **Marconi Research & Innovations Lab** (Oct 2025 – present)<br>
+💼 Freelancing on agentic systems, full-stack and Flutter apps, and DevOps
 
 ## Things I've built
 
 **AI agents**
 
 | Project | What it does | Built with |
-| :-- | :-- | :-- |
+| :-: | :-: | :-: |
 | [**Student-PA**](https://github.com/abenable/student-pa) | Gives every university student their own AI agent on Telegram, each in its own container, with workflows for email, calendars, lab reports and job applications. | Hermes Agent · Python · Docker |
 | [**Ops Agent**](https://github.com/abenable/ops-agent) | Discord bot for the Marconi lab's Docker services. Ask it "why is loki down?" and it reads container state, logs and metrics before answering. It also raises the alarm when a service stops. | Python · Prometheus · Loki |
 | [**TradeCheck**](https://github.com/abenable/binance-agent) | Guardrails for letting an LLM near a Binance account. The model proposes a purchase, the server checks it against your limits, and nothing executes until you approve it. | LangGraph · FastAPI |
@@ -25,7 +27,7 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 **Apps**
 
 | Project | What it does | Built with |
-| :-- | :-- | :-- |
+| :-: | :-: | :-: |
 | [**HostelDesk**](https://github.com/abenable/hosteldesk) | Local-first desktop app for hostel managers: rooms, residents, payments and offline PDF receipts. [v1.1.0 is out.](https://github.com/abenable/hosteldesk/releases/latest) | Rust · Tauri · React |
 | [**Tusome**](https://github.com/abenable/Tusome) | Offline science and maths lab for Uganda's lower-secondary CBC curriculum, built for shared school computers with no internet. Simulations, lessons and quizzes all run locally. | Tauri · React · SQLite |
 | [**Wayleave Monitor**](https://github.com/abenable/wayleave) | Map dashboard that tracks vegetation and structures encroaching on UETCL's 220 kV transmission corridors. Built with a teammate. | TanStack Start · Leaflet |
@@ -33,14 +35,12 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 
 ## What I work with
 
-<p>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Ctypescript%2Cjavascript%2Crust%2Cdart%2Ccpp%2Cnodejs%2Cbun%2Creact%2Cnextjs%2Ctailwind%2Cfastapi%2Cdjango%2Cflutter%2Cpostgres%2Cprisma%2Credis%2Cmongodb%2Cdocker%2Cterraform%2Cgithubactions%2Caws%2Ccloudflare%2Clinux&perline=12&theme=dark">
-  <img alt="Python, TypeScript, JavaScript, Rust, Dart, C++, Node.js, Bun, React, Next.js, Tailwind, FastAPI, Django, Flutter, PostgreSQL, Prisma, Redis, MongoDB, Docker, Terraform, GitHub Actions, AWS, Cloudflare, Linux" src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,dart,cpp,nodejs,bun,react,nextjs,tailwind,fastapi,django,flutter,postgres,prisma,redis,mongodb,docker,terraform,githubactions,aws,cloudflare,linux&perline=12&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
+  <img alt="Python, TypeScript, JavaScript, Rust, Dart, C++, Node.js, Bun, React, Next.js, Tailwind, FastAPI, Django, Flutter, PostgreSQL, Prisma, Redis, MongoDB, Docker, Terraform, GitHub Actions, AWS, Cloudflare, Linux, Claude, Codex" src="./assets/stack-light.svg">
 </picture>
-</p>
 
-**Agents & LLMs:** Hermes Agent, LangChain and LangGraph, OpenAI and Gemini APIs. Tool calling, RAG and structured outputs.
+**Agents & LLMs:** Claude Code and Codex for day-to-day building, plus Hermes Agent, LangChain and LangGraph, OpenAI and Gemini APIs. Tool calling, RAG and structured outputs.
 
 ## On GitHub
 
@@ -61,3 +61,5 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 ---
 
 Building something with agents, or need a backend that stays up? [Say hi.](mailto:ableabenaitwe@gmail.com)
+
+</div>
