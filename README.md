@@ -35,10 +35,12 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 
 ## What I work with
 
+<p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg">
   <img alt="Python, TypeScript, JavaScript, Rust, Dart, C++, Node.js, Bun, React, Next.js, Tailwind, FastAPI, Django, Flutter, PostgreSQL, Prisma, Redis, MongoDB, Docker, Terraform, GitHub Actions, AWS, Cloudflare, Linux, Claude, Codex" src="./assets/stack-light.svg">
 </picture>
+</p>
 
 **Agents & LLMs:** Claude Code and Codex for day-to-day building, plus Hermes Agent, LangChain and LangGraph, OpenAI and Gemini APIs. Tool calling, RAG and structured outputs.
 
