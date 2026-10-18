@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=3" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
+<img src="./assets/header.svg?v=4" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
 
 <a href="https://www.linkedin.com/in/able-abenaitwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-able--abenaitwe-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:ableabenaitwe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ableabenaitwe%40gmail.com-0E7490?style=flat-square&logo=gmail&logoColor=white"></a>
 
@@ -11,7 +11,7 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 **Right now**
 
 🩺 Software Engineer at **Feyti Medical Group** (joined Apr 2026)<br>
-🛠️ Junior Infrastructure Manager Intern at **Marconi Research & Innovations Lab** (Oct 2025 – present)<br>
+🛠️ Junior Infrastructure Manager at **Marconi Research & Innovations Lab** (joined Oct 2025)<br>
 💼 Freelancing on agentic systems, full-stack and Flutter apps, and DevOps
 
 ## Things I've built
