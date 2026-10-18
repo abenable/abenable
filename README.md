@@ -8,7 +8,7 @@ I study Electrical Engineering at Makerere University and somehow ended up writi
 
 **Right now**
 
-- 🩺 Software Engineering Intern at **Feyti Medical Group** (Apr 2026 – present)
+- 🩺 Software Engineer at **Feyti Medical Group** (joined Apr 2026)
 - 🛠️ Junior Infrastructure Manager Intern at **Marconi Research & Innovations Lab** (Oct 2025 – present)
 - 💼 Freelancing on agentic systems, full-stack and Flutter apps, and DevOps
 

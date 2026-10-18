@@ -23,7 +23,7 @@ TAGS = [
     "I keep the servers up. Mostly.",
     "I study EE at Makerere University.",
 ]
-META = "SWE Intern @ Feyti Medical Group · Infra Intern @ Marconi Lab · Freelance"
+META = "Software Engineer @ Feyti Medical Group · Infra Intern @ Marconi · Freelance"
 SCOPE = ["CH1  2V/div", "50 Hz", "signal: clean"]
 
 
