@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=4" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
+<img src="./assets/header.svg?v=5" alt="Able Abenaitwe. I build AI agents that do real work, ship full-stack apps, and keep the servers up." width="100%">
 
 <a href="https://www.linkedin.com/in/able-abenaitwe/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-able--abenaitwe-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a> <a href="mailto:ableabenaitwe@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ableabenaitwe%40gmail.com-0E7490?style=flat-square&logo=gmail&logoColor=white"></a>
 

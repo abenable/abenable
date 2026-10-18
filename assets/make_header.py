@@ -16,7 +16,7 @@ W, H = 1200, 300
 CYAN, INK, SOFT, MUTED, LINE, GREEN = "#22D3EE", "#F1F5F9", "#CBD5E1", "#64748B", "#1E293B", "#4ADE80"
 
 NAME = "Able Abenaitwe"
-PROMPT = [("able@makerere", CYAN), (":~$ ", MUTED), ("whoami", SOFT)]
+PROMPT = [("able@github", CYAN), (":~$ ", MUTED), ("whoami", SOFT)]
 TAGS = [
     "I build AI agents that do real work.",
     "I ship full-stack apps, front to back.",
